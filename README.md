@@ -21,7 +21,7 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+In command window, go to project folder and then execute following commmand
 npm install
 ```
 
