@@ -25,6 +25,9 @@ In command window, go to project folder and then execute following commmand
 npm install
 ```
 
+After that open the code in a text editor and go to Login.svelte file to change the Rest API URI. 
+Do the same in Register.svelte file.
+
 ...then start [Rollup](https://rollupjs.org):
 
 ```bash
